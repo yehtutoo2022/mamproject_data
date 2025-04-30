@@ -10,7 +10,7 @@
     {"month": "Aug", "value": 40},
     {"month": "Sep", "value": 30},
     {"month": "Oct", "value": 20},
-    {"month": "Nov", "value": 10},
+    {"month": "Nov", "value": 500},
     {"month": "Dec", "value": 1000}
   ],
   "pieData": [
